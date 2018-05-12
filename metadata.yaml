@@ -1,0 +1,30 @@
+_repo: Notable-Events-of-the-Nineteenth-CenturyGreat-Deeds-of-Men-and-Nations-and-the-Progress-of-th__15824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ridpath, John Clark
+    birthdate: 1840
+    deathdate: 1900
+    gutenberg_agent_id: '370'
+    url: http://www.gutenberg.org/2009/agents/370
+    wikipedia: http://en.wikipedia.org/wiki/John_Clark_Ridpath
+description: ''
+gutenberg_issued: '2005-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15824'
+  lccn: '04000646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AG'
+- !lcsh 'Nineteenth century -- History'
+title: 'Notable Events of the Nineteenth Century
+
+  Great Deeds of Men and Nations and the Progress of the World'
+url: http://www.gutenberg.org/ebooks/15824
