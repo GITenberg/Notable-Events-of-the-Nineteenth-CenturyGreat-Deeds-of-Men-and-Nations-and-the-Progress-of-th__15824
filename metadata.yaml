@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/370
     wikipedia: http://en.wikipedia.org/wiki/John_Clark_Ridpath
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15824#Notable-Events-of-the-Nineteenth-CenturyGreat-Deeds-of-Men-and-Nations-and-the-Progress-of-th_
 gutenberg_issued: '2005-05-14'
 gutenberg_type: Text
 identifiers:
